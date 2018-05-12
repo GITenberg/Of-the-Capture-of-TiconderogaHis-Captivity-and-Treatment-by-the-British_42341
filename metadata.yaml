@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38995'
     url: http://www.gutenberg.org/2009/agents/38995
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42341#Of-the-Capture-of-TiconderogaHis-Captivity-and-Treatment-by-the-British
 gutenberg_issued: '2013-03-15'
 gutenberg_type: Text
 identifiers:
