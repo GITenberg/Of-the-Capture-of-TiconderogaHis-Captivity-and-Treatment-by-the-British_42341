@@ -1,0 +1,29 @@
+_repo: Of-the-Capture-of-TiconderogaHis-Captivity-and-Treatment-by-the-British_42341
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allen, Ethan
+    birthdate: 1738
+    deathdate: 1789
+    gutenberg_agent_id: '38995'
+    url: http://www.gutenberg.org/2009/agents/38995
+description: ''
+gutenberg_issued: '2013-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42341'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ticonderoga (N.Y.) -- History -- Revolution, 1775-1783'
+- !lcsh 'Allen, Ethan, 1738-1789'
+- !lcc 'E201'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Prisoners and prisons
+  -- Personal narratives'
+title: 'Of the Capture of Ticonderoga: His Captivity and Treatment by the British'
+url: http://www.gutenberg.org/ebooks/42341
